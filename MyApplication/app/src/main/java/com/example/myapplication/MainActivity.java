@@ -2,39 +2,76 @@ package com.example.myapplication;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.fragment.app.Fragment;
+import androidx.fragment.app.FragmentManager;
+import androidx.fragment.app.FragmentTransaction;
 
 import android.os.Bundle;
+import android.view.MenuItem;
 import android.widget.CalendarView;
 import android.widget.TextView;
+
+import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
 public class MainActivity extends AppCompatActivity {
-
-    CalendarView calendarView;
-    TextView today;
+    private BottomNavigationView mBottomNV;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        today = findViewById(R.id.today);
-        calendarView = findViewById(R.id.calendarView);
+        mBottomNV = findViewById(R.id.nav_view);
+        mBottomNV.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() { //NavigationItemSelecte
+            @Override
+            public boolean onNavigationItemSelected(@NonNull MenuItem menuItem) {
+                BottomNavigate(menuItem.getItemId());
 
-        DateFormat formatter = new SimpleDateFormat("yyyy년mm월dd일");
-            Date date = new Date(calendarView.getDate());
-            today.setText(formatter.format(date));
 
-            calendarView.setOnDateChangeListener(new CalendarView.OnDateChangeListener() {
-                @Override
-                public void onSelectedDayChange(@NonNull CalendarView calendarView, int year, int month, int dayofMonth) {
-                    String day;
-                    day = year + "년" + (month+1) + "월" + dayofMonth + "일";
-                    today.setText(day);
-                }
-            });
+                return true;
+            }
+        });
+        mBottomNV.setSelectedItemId(R.id.navigation_1);
     }
+    private void BottomNavigate(int id) {  //BottomNavigation 페이지 변경
+        String tag = String.valueOf(id);
+        FragmentManager fragmentManager = getSupportFragmentManager();
+        FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
+
+        Fragment currentFragment = fragmentManager.getPrimaryNavigationFragment();
+        if (currentFragment != null) {
+            fragmentTransaction.hide(currentFragment);
+        }
+
+        Fragment fragment = fragmentManager.findFragmentByTag(tag);
+        if (fragment == null) {
+            if (id == R.id.navigation_1) {
+                fragment = new FragmentPage1();
+
+            } else if (id == R.id.navigation_2){
+
+                fragment = new FragmentPage2();
+            } else if (id == R.id.navigation_3){
+
+                fragment = new FragmentPage3();
+            }else {
+                fragment = new FragmentPage4();
+            }
+
+            fragmentTransaction.add(R.id.content_layout, fragment, tag);
+        } else {
+            fragmentTransaction.show(fragment);
+        }
+
+        fragmentTransaction.setPrimaryNavigationFragment(fragment);
+        fragmentTransaction.setReorderingAllowed(true);
+        fragmentTransaction.commitNow();
+
+
+    }
+
 }
