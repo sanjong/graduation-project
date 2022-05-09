@@ -3,13 +3,13 @@
 
     <item
         android:id="@+id/navigation_1"
-        android:icon="@drawable/search"
-        android:title="전체보기" />
+        android:icon="@drawable/home"
+        android:title="홈" />
 
     <item
         android:id="@+id/navigation_2"
-        android:icon="@drawable/main"
-        android:title="글쓰기" />
+        android:icon="@drawable/search"
+        android:title="전체피드" />
 
     <item
         android:id="@+id/navigation_3"

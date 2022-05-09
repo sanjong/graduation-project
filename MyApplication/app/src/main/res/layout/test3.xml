@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:backgroundTint="#FFFFFF"
+    tools:context=".Test">
+
+    <!--android:layout_toLeftOf="@id/setting"!-->
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="372dp"
+        android:layout_height="305dp"
+        android:layout_below="@+id/image"
+        android:layout_alignStart="@+id/image"
+        android:layout_marginStart="-32dp"
+        android:layout_marginTop="-42dp"
+        android:background="@drawable/table">
+
+        <TextView
+            android:id="@+id/hash"
+            android:layout_width="307dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="96dp"
+            android:background="#CCCCCC"
+            android:text="#아이유 #앨범 #가나다라마바사"
+            android:textSize="25dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/record"
+            android:layout_width="202dp"
+            android:layout_height="57dp"
+            android:layout_marginStart="52dp"
+            android:layout_marginTop="12dp"
+            android:background="#000000"
+            android:textSize="25dp"
+            app:layout_constraintStart_toStartOf="@+id/hash"
+            app:layout_constraintTop_toBottomOf="@+id/hash" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="86dp"
+            android:layout_height="27dp"
+            android:layout_marginStart="136dp"
+            android:layout_marginTop="16dp"
+            android:text="이름"
+            android:textSize="20sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="182dp"
+            android:layout_height="27dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="12dp"
+            android:text="게시글 올린 날짜"
+            android:textSize="20sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+        <ImageButton
+            android:id="@+id/imageButton2"
+            android:layout_width="58dp"
+            android:layout_height="59dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="12dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/hash"
+            app:srcCompat="@drawable/playbuttonxml" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="49dp"
+            android:layout_height="19dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="48dp"
+            android:text="01:23"
+            app:layout_constraintStart_toEndOf="@+id/record"
+            app:layout_constraintTop_toBottomOf="@+id/hash" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/image"
+        android:layout_width="90dp"
+        android:layout_height="86dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="51dp"
+        android:layout_marginTop="39dp" />
+
+</RelativeLayout>
