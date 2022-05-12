@@ -1,0 +1,378 @@
+[
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_kth.jpg.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable-v24\\kth.jpg"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_friends.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable\\friends.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_table.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\table.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_search.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_table.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable-ldpi\\table.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_heart.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable\\heart.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_baseline_search_black_36.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-xxhdpi\\baseline_search_black_36.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_a.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable-xxhdpi\\a.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_playbutton.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable\\playbutton.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_baseline_search_black_18.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-hdpi\\baseline_search_black_18.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_a.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\a.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_record_image.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable\\record_image.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_a.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable-hdpi\\a.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_baseline_search_black_24.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-mdpi\\baseline_search_black_24.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_comment.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable\\comment.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\layout_selectday2.xml.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\layout\\selectday2.xml"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\menu_bottom_nav.xml.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\menu\\bottom_nav.xml"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_baseline_search_black_24.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\baseline_search_black_24.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_baseline_search_black_36.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\baseline_search_black_36.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_table.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable-hdpi\\table.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_page_3.xml.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\layout\\fragment_page_3.xml"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_psj.jpg.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable-v24\\psj.jpg"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_playbuttonxml.xml.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable\\playbuttonxml.xml"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_page_4.xml.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\layout\\fragment_page_4.xml"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_a.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable-ldpi\\a.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_baseline_search_black_24.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-xxhdpi\\baseline_search_black_24.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_baseline_search_black_20.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\baseline_search_black_20.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\layout_demo.xml.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\layout\\demo.xml"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_n.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable-hdpi\\n.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_table.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable-xxhdpi\\table.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_baseline_search_black_36.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-mdpi\\baseline_search_black_36.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_record.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable\\record.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_baseline_search_black_24.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\baseline_search_black_24.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_baseline_search_black_18.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\baseline_search_black_18.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_n.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable-xxxhdpi\\n.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_my.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable\\my.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_loginbtn.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable-hdpi\\loginbtn.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_baseline_search_black_36.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\baseline_search_black_36.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_baseline_search_black_48.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-hdpi\\baseline_search_black_48.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_home.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_n.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable-xxhdpi\\n.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_baseline_search_black_20.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-mdpi\\baseline_search_black_20.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_loginbtn.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\loginbtn.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_baseline_search_black_18.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-xxhdpi\\baseline_search_black_18.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_table.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\table.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_jss.jpg.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable\\jss.jpg"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_a.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable-xxxhdpi\\a.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_baseline_search_black_24.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-hdpi\\baseline_search_black_24.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_baseline_search_black_20.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\baseline_search_black_20.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_name.jpg.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable\\name.jpg"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_n.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\n.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_baseline_search_black_36.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-hdpi\\baseline_search_black_36.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_loginbtn.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable-xxhdpi\\loginbtn.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_baseline_search_black_18.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-mdpi\\baseline_search_black_18.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_n.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable-ldpi\\n.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_page_1.xml.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\layout\\fragment_page_1.xml"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_loginbtn.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable-xxxhdpi\\loginbtn.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_baseline_search_black_18.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\baseline_search_black_18.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\layout_join.xml.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\layout\\join.xml"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\layout_test.xml.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_pen.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable\\pen.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\layout_search.xml.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\layout\\search.xml"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_baseline_search_black_20.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-xxhdpi\\baseline_search_black_20.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_baseline_search_black_48.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\baseline_search_black_48.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_n.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\n.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_jmy.jpg.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable-v24\\jmy.jpg"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_iu.jpg.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable-v24\\iu.jpg"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_baseline_search_black_20.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-hdpi\\baseline_search_black_20.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_baseline_search_black_48.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-xxhdpi\\baseline_search_black_48.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_loginbtn.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable-ldpi\\loginbtn.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_baseline_search_black_48.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-mdpi\\baseline_search_black_48.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\layout_login.xml.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_main.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable\\main.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_table.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable-xxxhdpi\\table.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_page_2.xml.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\layout\\fragment_page_2.xml"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\layout_selectday.xml.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\layout\\selectday.xml"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_a.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\a.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_baseline_search_black_48.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\baseline_search_black_48.png"
+    },
+    {
+        "merged": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_loginbtn.png.flat",
+        "source": "C:\\project\\git\\GraduationProject\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\loginbtn.png"
+    }
+]

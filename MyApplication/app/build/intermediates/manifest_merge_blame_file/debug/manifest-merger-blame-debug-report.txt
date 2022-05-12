@@ -1,0 +1,100 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.myapplication"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\project\git\GraduationProject\MyApplication\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\project\git\GraduationProject\MyApplication\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\project\git\GraduationProject\MyApplication\app\src\main\AndroidManifest.xml:4:5-67
+11-->C:\project\git\GraduationProject\MyApplication\app\src\main\AndroidManifest.xml:4:22-64
+12
+13    <queries>
+13-->[com.android.car.ui:car-ui-lib:2.1.0] C:\Users\kyu\.gradle\caches\transforms-3\44b31c181ab34150a1413111abdc10aa\transformed\car-ui-lib-2.1.0\AndroidManifest.xml:26:5-31:15
+14        <provider
+14-->[com.android.car.ui:car-ui-lib:2.1.0] C:\Users\kyu\.gradle\caches\transforms-3\44b31c181ab34150a1413111abdc10aa\transformed\car-ui-lib-2.1.0\AndroidManifest.xml:27:9-30:67
+15            android:name="com.android.car.ui.plugin.PluginNameProvider"
+15-->[com.android.car.ui:car-ui-lib:2.1.0] C:\Users\kyu\.gradle\caches\transforms-3\44b31c181ab34150a1413111abdc10aa\transformed\car-ui-lib-2.1.0\AndroidManifest.xml:28:13-72
+16            android:authorities="com.android.car.ui.plugin" />
+16-->[com.android.car.ui:car-ui-lib:2.1.0] C:\Users\kyu\.gradle\caches\transforms-3\44b31c181ab34150a1413111abdc10aa\transformed\car-ui-lib-2.1.0\AndroidManifest.xml:29:13-60
+17    </queries>
+18
+19    <application
+19-->C:\project\git\GraduationProject\MyApplication\app\src\main\AndroidManifest.xml:5:5-26:19
+20        android:allowBackup="true"
+20-->C:\project\git\GraduationProject\MyApplication\app\src\main\AndroidManifest.xml:7:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.5.0] C:\Users\kyu\.gradle\caches\transforms-3\b1fe9740f6c86f0b7649a763c3bf2b85\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:icon="@mipmap/ic_launcher"
+23-->C:\project\git\GraduationProject\MyApplication\app\src\main\AndroidManifest.xml:8:9-43
+24        android:label="@string/app_name"
+24-->C:\project\git\GraduationProject\MyApplication\app\src\main\AndroidManifest.xml:9:9-41
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->C:\project\git\GraduationProject\MyApplication\app\src\main\AndroidManifest.xml:10:9-54
+26        android:supportsRtl="true"
+26-->C:\project\git\GraduationProject\MyApplication\app\src\main\AndroidManifest.xml:11:9-35
+27        android:testOnly="true"
+28        android:theme="@style/Theme.MyApplication"
+28-->C:\project\git\GraduationProject\MyApplication\app\src\main\AndroidManifest.xml:12:9-51
+29        android:usesCleartextTraffic="true" >
+29-->C:\project\git\GraduationProject\MyApplication\app\src\main\AndroidManifest.xml:6:9-44
+30        <activity
+30-->C:\project\git\GraduationProject\MyApplication\app\src\main\AndroidManifest.xml:13:9-22:20
+31            android:name="com.example.myapplication.Login"
+31-->C:\project\git\GraduationProject\MyApplication\app\src\main\AndroidManifest.xml:15:13-34
+32            android:exported="true" >
+32-->C:\project\git\GraduationProject\MyApplication\app\src\main\AndroidManifest.xml:16:13-36
+33            <intent-filter>
+33-->C:\project\git\GraduationProject\MyApplication\app\src\main\AndroidManifest.xml:17:13-21:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->C:\project\git\GraduationProject\MyApplication\app\src\main\AndroidManifest.xml:18:17-69
+34-->C:\project\git\GraduationProject\MyApplication\app\src\main\AndroidManifest.xml:18:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->C:\project\git\GraduationProject\MyApplication\app\src\main\AndroidManifest.xml:20:17-77
+36-->C:\project\git\GraduationProject\MyApplication\app\src\main\AndroidManifest.xml:20:27-74
+37            </intent-filter>
+38        </activity>
+39        <activity android:name="com.example.myapplication.Test" />
+39-->C:\project\git\GraduationProject\MyApplication\app\src\main\AndroidManifest.xml:23:9-51
+39-->C:\project\git\GraduationProject\MyApplication\app\src\main\AndroidManifest.xml:23:19-39
+40        <activity android:name="com.example.myapplication.MainActivity" />
+40-->C:\project\git\GraduationProject\MyApplication\app\src\main\AndroidManifest.xml:24:9-59
+40-->C:\project\git\GraduationProject\MyApplication\app\src\main\AndroidManifest.xml:24:19-47
+41        <activity android:name="com.example.myapplication.Join" />
+41-->C:\project\git\GraduationProject\MyApplication\app\src\main\AndroidManifest.xml:25:9-51
+41-->C:\project\git\GraduationProject\MyApplication\app\src\main\AndroidManifest.xml:25:19-39
+42
+43        <provider
+43-->[com.android.car.ui:car-ui-lib:2.1.0] C:\Users\kyu\.gradle\caches\transforms-3\44b31c181ab34150a1413111abdc10aa\transformed\car-ui-lib-2.1.0\AndroidManifest.xml:34:9-39:71
+44            android:name="com.android.car.ui.core.CarUiInstaller"
+44-->[com.android.car.ui:car-ui-lib:2.1.0] C:\Users\kyu\.gradle\caches\transforms-3\44b31c181ab34150a1413111abdc10aa\transformed\car-ui-lib-2.1.0\AndroidManifest.xml:35:13-66
+45            android:authorities="com.example.myapplication.CarUiInstaller"
+45-->[com.android.car.ui:car-ui-lib:2.1.0] C:\Users\kyu\.gradle\caches\transforms-3\44b31c181ab34150a1413111abdc10aa\transformed\car-ui-lib-2.1.0\AndroidManifest.xml:36:13-66
+46            android:directBootAware="true"
+46-->[com.android.car.ui:car-ui-lib:2.1.0] C:\Users\kyu\.gradle\caches\transforms-3\44b31c181ab34150a1413111abdc10aa\transformed\car-ui-lib-2.1.0\AndroidManifest.xml:37:13-43
+47            android:exported="false"
+47-->[com.android.car.ui:car-ui-lib:2.1.0] C:\Users\kyu\.gradle\caches\transforms-3\44b31c181ab34150a1413111abdc10aa\transformed\car-ui-lib-2.1.0\AndroidManifest.xml:38:13-37
+48            android:process="@string/car_ui_installer_process_name" />
+48-->[com.android.car.ui:car-ui-lib:2.1.0] C:\Users\kyu\.gradle\caches\transforms-3\44b31c181ab34150a1413111abdc10aa\transformed\car-ui-lib-2.1.0\AndroidManifest.xml:39:13-68
+49        <provider
+49-->[com.android.car.ui:car-ui-lib:2.1.0] C:\Users\kyu\.gradle\caches\transforms-3\44b31c181ab34150a1413111abdc10aa\transformed\car-ui-lib-2.1.0\AndroidManifest.xml:40:9-45:79
+50            android:name="com.android.car.ui.core.SearchResultsProvider"
+50-->[com.android.car.ui:car-ui-lib:2.1.0] C:\Users\kyu\.gradle\caches\transforms-3\44b31c181ab34150a1413111abdc10aa\transformed\car-ui-lib-2.1.0\AndroidManifest.xml:41:13-73
+51            android:authorities="com.example.myapplication.SearchResultsProvider"
+51-->[com.android.car.ui:car-ui-lib:2.1.0] C:\Users\kyu\.gradle\caches\transforms-3\44b31c181ab34150a1413111abdc10aa\transformed\car-ui-lib-2.1.0\AndroidManifest.xml:42:13-73
+52            android:exported="true"
+52-->[com.android.car.ui:car-ui-lib:2.1.0] C:\Users\kyu\.gradle\caches\transforms-3\44b31c181ab34150a1413111abdc10aa\transformed\car-ui-lib-2.1.0\AndroidManifest.xml:43:13-36
+53            android:process="@string/car_ui_installer_process_name"
+53-->[com.android.car.ui:car-ui-lib:2.1.0] C:\Users\kyu\.gradle\caches\transforms-3\44b31c181ab34150a1413111abdc10aa\transformed\car-ui-lib-2.1.0\AndroidManifest.xml:44:13-68
+54            android:readPermission="com.android.car.ui.READ_SEARCH_RESULTS" />
+54-->[com.android.car.ui:car-ui-lib:2.1.0] C:\Users\kyu\.gradle\caches\transforms-3\44b31c181ab34150a1413111abdc10aa\transformed\car-ui-lib-2.1.0\AndroidManifest.xml:45:13-76
+55    </application>
+56
+57</manifest>
