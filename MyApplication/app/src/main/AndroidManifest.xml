@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
-            android:name=".MainActivity"
+            android:name=".Login"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -19,6 +19,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".Test"></activity>
+        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".Join"></activity>
+
     </application>
 
 </manifest>

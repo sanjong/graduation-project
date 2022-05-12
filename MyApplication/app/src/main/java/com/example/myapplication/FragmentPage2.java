@@ -9,7 +9,12 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
+import java.util.Arrays;
+import java.util.List;
+
 public class FragmentPage2 extends Fragment {
+
+    private List<String> items = Arrays.asList("a","b","c","d","e");
 
     @Nullable
     @Override
@@ -17,6 +22,12 @@ public class FragmentPage2 extends Fragment {
         setHasOptionsMenu(true);
         return inflater.inflate(R.layout.fragment_page_2, container, false);
     }
+
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+    }
+
     @Override
     public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);

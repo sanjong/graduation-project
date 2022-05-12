@@ -18,7 +18,7 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-public class Test extends AppCompatActivity {
+public class SelectDay extends AppCompatActivity {
 
     ListView list;
 
@@ -52,7 +52,7 @@ public class Test extends AppCompatActivity {
         setTitle("캘린더 날짜 클릭 화면 Demo");
 
         CustomList adapter = new
-                CustomList(Test.this);
+                CustomList(SelectDay.this);
         list = (ListView) findViewById(R.id.list);
         list.setAdapter(adapter);
         list.setOnItemClickListener(new AdapterView.OnItemClickListener() {
