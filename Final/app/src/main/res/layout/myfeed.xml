@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="400dp"
+    android:background="#E1E7EA"
+    tools:context=".FragmentPage4">
+
+
+    <!--android:layout_toLeftOf="@id/setting"!-->
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="382dp"
+        android:layout_height="291dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="95dp"
+        android:background="@drawable/mainb">
+
+
+        <TextView
+            android:id="@+id/maintext"
+            android:layout_width="304dp"
+            android:layout_height="62dp"
+            android:layout_marginStart="36dp"
+            android:layout_marginTop="72dp"
+            android:background="@drawable/wpahr2"
+            android:gravity="center"
+            android:text="아이유 앨범 후기"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="MissingConstraints" />
+
+
+        <TextView
+            android:id="@+id/hash"
+            android:layout_width="305dp"
+            android:layout_height="71dp"
+            android:layout_marginStart="36dp"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/wpahr2"
+            android:gravity="center"
+            android:text="#아이유 #앨범 #가나다라마바사"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/maintext"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/record"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginEnd="76dp"
+            android:background="@drawable/time22"
+            android:gravity="center"
+            android:text=""
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/hash" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="69dp"
+            android:layout_height="25dp"
+            android:layout_marginStart="128dp"
+            android:layout_marginTop="4dp"
+            android:text="이름"
+            android:textSize="20sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="149dp"
+            android:layout_height="24dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp"
+            android:text="게시글 올린 날짜"
+            android:textSize="20sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+
+        <ImageButton
+            android:id="@+id/imageButton2"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:layout_marginStart="148dp"
+            android:layout_marginTop="4dp"
+            android:adjustViewBounds="true"
+            android:background="@drawable/paly"
+            android:scaleType="fitCenter"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/hash"
+            tools:ignore="MissingConstraints" />
+
+        <ImageButton
+            android:id="@+id/heartBtn"
+            android:layout_width="67dp"
+            android:layout_height="56dp"
+            android:layout_marginStart="36dp"
+            android:layout_marginTop="4dp"
+            android:backgroundTint="#D1DDEB"
+            android:scaleType="fitCenter"
+            android:src="@drawable/null_heart"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/hash" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/image"
+        android:layout_width="98dp"
+        android:layout_height="83dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="37dp"
+        android:background="@drawable/user97"
+        android:src="@drawable/human"/>
+
+    <ImageButton
+        android:id="@+id/follow"
+        android:layout_width="115dp"
+        android:layout_height="47dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="240dp"
+        android:layout_marginTop="67dp"
+        android:background="@drawable/unfollow"
+        android:scaleType="fitCenter"
+        android:text="fallow" />
+
+
+</RelativeLayout>

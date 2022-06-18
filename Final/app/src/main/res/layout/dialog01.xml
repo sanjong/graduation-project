@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+    android:layout_width="300dp"
+    android:layout_height="100dp"
+    android:padding="40dp"
+    android:text="프로필 사진을 업로드 해주세요"/>
+
+    <LinearLayout
+        android:layout_width="300dp"
+        android:layout_height="50dp">
+
+        <Button
+            android:id="@+id/cameraBtn"
+            android:layout_width="10dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="카메라" />
+
+        <Button
+            android:id="@+id/albumBtn"
+            android:layout_width="10dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="앨범"/>
+
+        <Button
+            android:id="@+id/cancelBtn"
+            android:layout_width="10dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="취소"/>
+
+    </LinearLayout>
+
+</LinearLayout>
+
+
+

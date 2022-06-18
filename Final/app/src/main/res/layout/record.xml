@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E1E7EA"
+    tools:context=".Record">
+
+
+    <TextView
+        android:id="@+id/Title11"
+        android:layout_width="265dp"
+        android:layout_height="54dp"
+        android:layout_marginStart="76dp"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:text="𝓓𝓪𝓲𝓵𝔂 𝓡𝓮𝓬𝓸𝓻𝓭"
+        android:textColor="#7497EA"
+        android:textSize="40dp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/audioUserImage"
+        android:layout_width="123dp"
+        android:layout_height="128dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="36dp"
+        android:background="@drawable/user22"
+        android:src="@drawable/human"
+        app:civ_border_color="#FFCCCCCC"
+        app:civ_border_width="2dp"
+
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Title11" />
+
+    <TextView
+        android:id="@+id/userId"
+        android:layout_width="170dp"
+        android:layout_height="35dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="72dp"
+        android:background="@drawable/tag"
+        android:gravity="center"
+        android:text="사용자이름"
+        app:layout_constraintStart_toEndOf="@+id/audioUserImage"
+        app:layout_constraintTop_toBottomOf="@+id/Title11" />
+
+    <TextView
+        android:id="@+id/createdAt"
+        android:layout_width="170dp"
+        android:layout_height="35dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="12dp"
+        android:background="@drawable/tag"
+        android:gravity="center"
+        android:text="게시물 작성일"
+        app:layout_constraintStart_toEndOf="@+id/audioUserImage"
+        app:layout_constraintTop_toBottomOf="@+id/userId" />
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintLayout3"
+        android:layout_width="377dp"
+        android:layout_height="337dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/mainb"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/audioUserImage">
+
+        <EditText
+            android:id="@+id/Title"
+            android:layout_width="260dp"
+            android:layout_height="41dp"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/wpahr2"
+            android:gravity="center"
+            android:hint="제목을 입력하세요 "
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <EditText
+            android:id="@+id/HashTag"
+            android:layout_width="299dp"
+            android:layout_height="103dp"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/mainb"
+            android:gravity="center"
+            android:hint="해시태그를 입력하세요"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/Title" />
+
+        <ImageButton
+            android:id="@+id/audioRecordImageBtn"
+            android:layout_width="70dp"
+            android:layout_height="65dp"
+            android:layout_marginStart="56dp"
+            android:layout_marginTop="20dp"
+            android:adjustViewBounds="true"
+            android:background="@drawable/paly"
+            android:scaleType="fitCenter"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/HashTag"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/TimeText"
+            android:layout_width="70dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="48dp"
+            android:background="@drawable/time22"
+            android:gravity="center"
+            android:text=""
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/HashTag" />
+
+        <RadioGroup
+            android:id="@+id/radio_group"
+            android:layout_width="334dp"
+            android:layout_height="47dp"
+            android:layout_marginTop="8dp"
+            android:orientation="horizontal"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/audioRecordImageBtn">
+
+            <RadioButton
+                android:id="@+id/ALL"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="10dp"
+                android:checked="true"
+                android:text="전체공개"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+
+            <RadioButton
+                android:id="@+id/FRIEND"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="10dp"
+                android:text="친구공개"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+
+
+            <RadioButton
+                android:id="@+id/ME"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="10dp"
+                android:text="나만공개"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+
+        </RadioGroup>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <ImageButton
+
+        android:id="@+id/upload"
+        android:layout_width="150dp"
+        android:layout_height="69dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="28dp"
+        android:background="@drawable/yes22"
+        android:text="확인"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/constraintLayout3" />
+
+    <ImageButton
+
+        android:id="@+id/cancel"
+        android:layout_width="150dp"
+        android:layout_height="69dp"
+        android:layout_marginTop="28dp"
+        android:layout_marginEnd="32dp"
+        android:background="@drawable/cancel22"
+        android:text="취소"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/constraintLayout3" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+

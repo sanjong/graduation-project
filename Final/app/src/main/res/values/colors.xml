@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--bottom navigation bar-->
+    <color name="navigation_color_add">#8FB4ED</color>
+    <color name="navigation_color_mood">#8FB4ED</color>
+    <color name="navigation_color_habit">#2196F3</color>
+    <color name="navigation_color_chart">#008577</color>
+    <color name="navigation_color_profile">#1194AA</color>
+    <color name="color_button">#8FB4ED</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorPrimaryDark">#FF7043</color>
+    <color name="colorAccent">#FFAB40</color>
+
+
+
+</resources>

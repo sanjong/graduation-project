@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="email_array">
+        <item>직접입력</item>
+        <item>naver.com</item>
+        <item>gmail.com</item>
+        <item>hanmail.net</item>
+        <item>nate.com</item>
+        <item>hotmail.com</item>
+        <item>yahoo.co.kr</item>
+        <item>hanmir.com</item>
+    </string-array>
+</resources>
